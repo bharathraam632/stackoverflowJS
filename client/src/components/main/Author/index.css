@@ -1,0 +1,7 @@
+.question_author {
+    color: red;
+}
+
+.question_author:hover{
+    cursor: pointer;
+}
